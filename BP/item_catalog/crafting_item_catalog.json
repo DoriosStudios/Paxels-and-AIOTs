@@ -1,0 +1,42 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "equipment",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "utilitycraft:diamond_aiot",
+                            "name": "dorios:itemGroup.name.aiots"
+                        },
+                        "items": [
+                            "utilitycraft:netherite_aiot",
+                            "utilitycraft:diamond_aiot",
+                            "utilitycraft:iron_aiot",
+                            "utilitycraft:golden_aiot",
+                            "utilitycraft:copper_aiot",
+                            "utilitycraft:stone_aiot",
+                            "utilitycraft:wooden_aiot"
+                        ]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "utilitycraft:diamond_paxel",
+                            "name": "dorios:itemGroup.name.paxels"
+                        },
+                        "items": [
+                            "utilitycraft:netherite_paxel",
+                            "utilitycraft:diamond_paxel",
+                            "utilitycraft:iron_paxel",
+                            "utilitycraft:golden_paxel",
+                            "utilitycraft:copper_paxel",
+                            "utilitycraft:stone_paxel",
+                            "utilitycraft:wooden_paxel"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

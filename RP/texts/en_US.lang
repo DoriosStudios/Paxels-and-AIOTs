@@ -1,0 +1,20 @@
+-- AIOTs = ## AIOTs
+item.utilitycraft:netherite_aiot=Netherite AIOT
+item.utilitycraft:diamond_aiot=Diamond AIOT
+item.utilitycraft:golden_aiot=Golden AIOT
+item.utilitycraft:iron_aiot=Iron AIOT
+item.utilitycraft:copper_aiot=Copper AIOT
+item.utilitycraft:stone_aiot=Stone AIOT
+item.utilitycraft:wooden_aiot=Wooden AIOT
+
+-- Paxels = ## Pacachados
+item.utilitycraft:netherite_paxel=Netherite Paxel
+item.utilitycraft:diamond_paxel=Diamond Paxel
+item.utilitycraft:iron_paxel=Iron Paxel
+item.utilitycraft:copper_paxel=Copper Paxel
+item.utilitycraft:golden_paxel=Golden Paxel
+item.utilitycraft:stone_paxel=Stone Paxel
+item.utilitycraft:wooden_paxel=Wooden Paxel
+
+dorios:itemGroup.name.aiots=AIOTs
+dorios:itemGroup.name.paxels=Paxels

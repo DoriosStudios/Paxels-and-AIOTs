@@ -1,0 +1,19 @@
+-- AIOTs = ## AIOTs
+item.utilitycraft:netherite_aiot=AIOT de Netherita
+item.utilitycraft:diamond_aiot=AIOT de Diamante
+item.utilitycraft:steel_aiot=AIOT de Aço
+item.utilitycraft:golden_aiot=AIOT de Ouro
+item.utilitycraft:iron_aiot=AIOT de Ferro
+item.utilitycraft:copper_aiot=AIOT de Cobre
+item.utilitycraft:stone_aiot=AIOT de Pedra
+item.utilitycraft:wooden_aiot=AIOT de Madeira
+
+-- Paxels = ## Pacachados
+item.utilitycraft:diamond_paxel=Pacachado de Diamante
+item.utilitycraft:netherite_paxel=Pacachado de Netherita
+item.utilitycraft:steel_paxel=Pacachado de Aço
+item.utilitycraft:iron_paxel=Pacachado de Ferro
+item.utilitycraft:golden_paxel=Pacachado de Ouro
+item.utilitycraft:copper_paxel=Pacachado de Cobre
+item.utilitycraft:stone_paxel=Pacachado de Pedra
+item.utilitycraft:wooden_paxel=Pacachado de Madeira

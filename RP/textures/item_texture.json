@@ -1,0 +1,20 @@
+{
+	"resource_pack_name": "Paxels & AIOTs",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"utilitycraft_copper_aiot": {"textures": "textures/items/copper_aiot"},
+		"utilitycraft_copper_paxel": {"textures": "textures/items/copper_paxel"},
+		"utilitycraft_diamond_aiot": {"textures": "textures/items/diamond_aiot"},
+		"utilitycraft_diamond_paxel": {"textures": "textures/items/diamond_paxel"},
+		"utilitycraft_golden_aiot": {"textures": "textures/items/golden_aiot"},
+		"utilitycraft_golden_paxel": {"textures": "textures/items/golden_paxel"},
+		"utilitycraft_iron_aiot": {"textures": "textures/items/iron_aiot"},
+		"utilitycraft_iron_paxel": {"textures": "textures/items/iron_paxel"},
+		"utilitycraft_netherite_aiot": {"textures": "textures/items/netherite_aiot"},
+		"utilitycraft_netherite_paxel": {"textures": "textures/items/netherite_paxel"},
+		"utilitycraft_stone_aiot": {"textures": "textures/items/stone_aiot"},
+		"utilitycraft_stone_paxel": {"textures": "textures/items/stone_paxel"},
+		"utilitycraft_wooden_aiot": {"textures": "textures/items/wooden_aiot"},
+		"utilitycraft_wooden_paxel": {"textures": "textures/items/wooden_paxel"}
+	}
+}

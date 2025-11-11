@@ -1,0 +1,45 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Dorios Studios"
+		]
+	},
+	"header": {
+		"name": "Paxels & AIOTs",
+		"description": "An add-on that adds more tools to the game by Dorios Studios",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "e9853df1-28b0-4b9b-b899-a7db013ee31d",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "44d76465-9726-46aa-ba69-9126c8c67b9a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "483a5d44-a571-448e-bc47-70f1dcad92d7",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}

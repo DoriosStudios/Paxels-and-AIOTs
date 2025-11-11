@@ -1,0 +1,61 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "utilitycraft:stone_aiot"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"DSD",
+			"HPA",
+			"ZHD"
+		],
+		"result": [
+			{
+				"item": "utilitycraft:stone_aiot"
+			}
+		],
+		"unlock": [
+			{
+				"item": "minecraft:cobblestone"
+			},
+			{
+				"item": "minecraft:stone_sword"
+			},
+			{
+				"item": "minecraft:string"
+			},
+			{
+				"item": "utilitycraft:stone_paxel"
+			},
+			{
+				"item": "minecraft:stone_hoe"
+			},
+			{
+				"item": "minecraft:stick"
+			}
+		],
+		"key": {
+			"D": {
+				"item": "minecraft:cobblestone"
+			},
+			"S": {
+				"item": "minecraft:stone_sword"
+			},
+			"H": {
+				"item": "minecraft:string"
+			},
+			"P": {
+				"item": "utilitycraft:stone_paxel"
+			},
+			"A": {
+				"item": "minecraft:stone_hoe"
+			},
+			"Z": {
+				"item": "minecraft:stick"
+			}
+		}
+	}
+}
