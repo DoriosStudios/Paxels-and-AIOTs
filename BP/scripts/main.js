@@ -1,4 +1,7 @@
-import './doriosAPI/main.js' // Core
+import { installItemComponents } from './items/registry.js'
 
-import './hoe.js'
-import './durability.js'
+import './items/hoe.js'
+import './items/shovel.js'
+import './items/durability.js'
+
+installItemComponents()

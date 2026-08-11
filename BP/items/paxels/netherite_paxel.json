@@ -2,19 +2,16 @@
 	"format_version": "1.21.70",
 	"minecraft:item": {
 		"description": {
-			"identifier": "utilitycraft:netherite_paxel",
-			"menu_category": {
-				"category": "equipment"
-			}
+			"identifier": "utilitycraft:netherite_paxel"
 		},
 		"components": {
-			"minecraft:tags": {
-				"tags": [
-					"minecraft:is_axe",
-					"minecraft:is_pickaxe",
-					"minecraft:netherite_tier"
-				]
-			},
+                        "minecraft:tags": {
+                                "tags": [
+                                        "minecraft:is_axe",
+                                        "minecraft:is_pickaxe",
+                                        "minecraft:netherite_tier"
+                                ]
+                        },
 			"minecraft:fire_resistant": {
 				"value": true
 			},

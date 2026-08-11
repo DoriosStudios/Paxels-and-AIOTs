@@ -2,10 +2,7 @@
 	"format_version": "1.21.70",
 	"minecraft:item": {
 		"description": {
-			"identifier": "utilitycraft:golden_paxel",
-			"menu_category": {
-				"category": "equipment"
-			}
+			"identifier": "utilitycraft:golden_paxel"
 		},
 		"components": {
 			"minecraft:tags": {
@@ -19,8 +16,8 @@
 			"minecraft:durability": {
 				"max_durability": 288
 			},
-			"minecraft:damage": 6,
-			"minecraft:icon": "utilitycraft_golden_paxel",
+			"minecraft:damage": 3,
+			"minecraft:icon": "utilitycraft_gold_paxel",
 			"minecraft:enchantable": {
 				"value": 30,
 				"slot": "axe"

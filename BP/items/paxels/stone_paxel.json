@@ -2,25 +2,22 @@
 	"format_version": "1.21.70",
 	"minecraft:item": {
 		"description": {
-			"identifier": "utilitycraft:stone_paxel",
-			"menu_category": {
-				"category": "equipment"
-			}
+			"identifier": "utilitycraft:stone_paxel"
 		},
 		"components": {
-			"minecraft:tags": {
-				"tags": [
-					"minecraft:is_axe",
-					"minecraft:is_pickaxe",
-					"minecraft:stone_tier"
-				]
-			},
+                        "minecraft:tags": {
+                                "tags": [
+                                        "minecraft:is_axe",
+                                        "minecraft:is_pickaxe",
+                                        "minecraft:stone_tier"
+                                ]
+                        },
 			"minecraft:max_stack_size": 1,
 			"minecraft:hand_equipped": true,
 			"minecraft:durability": {
 				"max_durability": 249
 			},
-			"minecraft:damage": 6,
+			"minecraft:damage": 4,
 			"minecraft:icon": "utilitycraft_stone_paxel",
 			"minecraft:enchantable": {
 				"value": 6,
