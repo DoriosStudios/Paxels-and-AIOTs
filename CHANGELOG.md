@@ -1,3 +1,25 @@
+# Paxels & AIOTs v1.0.4
+
+This update brings Paxels & AIOTs up to Minecraft Bedrock 1.26.40 and fixes the Harvester function.
+
+## HIGHLIGHTS
+
+- Updated the add-on for Minecraft Bedrock 1.26.40 and `@minecraft/server` 2.9.0.
+- Fixed invalid block-state syntax that prevented the Harvester function from loading.
+
+## CHANGED
+
+- Updated the behavior and resource pack minimum engine version to Minecraft Bedrock 1.26.40.
+- Updated the stable `@minecraft/server` dependency to 2.9.0.
+- Updated the Regolith target version to 1.26.40.
+- Synchronized the visible pack version metadata with v1.0.4.
+
+## FIXED
+
+- Fixed invalid block-state syntax that prevented the harvester function from loading.
+
+---
+
 # Paxels & AIOTs v1.0.3
 
 This update synchronizes every standalone Paxel and AIOT with UtilityCraft and improves their shared tool behavior.

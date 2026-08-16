@@ -8,17 +8,17 @@
 	},
 	"header": {
 		"name": "Paxels & AIOTs",
-		"description": "An add-on that adds more tools to the game by Dorios Studios",
+		"description": "v1.0.4 | An add-on that adds more tools to the game by Dorios Studios",
 		"min_engine_version": [
 			1,
-			21,
-			0
+			26,
+			40
 		],
 		"uuid": "483a5d44-a571-448e-bc47-70f1dcad92d7",
 		"version": [
 			1,
 			0,
-			3
+			4
 		]
 	},
 	"modules": [
@@ -49,12 +49,12 @@
 			"version": [
 				1,
 				0,
-				3
+				4
 			]
 		},
 		{
 			"module_name": "@minecraft/server",
-			"version": "2.2.0"
+			"version": "2.9.0"
 		}
 	]
 }

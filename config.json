@@ -5,8 +5,8 @@
   "name": "Paxels & AIOTs",
   "namespace": "utilitycraft",
   "authors": ["Dorios Studios"],
-  "targetVersion": "1.21.120",
-  "description": "",
+  "targetVersion": "1.26.40",
+  "description": "v1.0.4 | An add-on that adds more tools to the game by Dorios Studios",
   "experimentalGameplay": {
     "upcomingCreatorFeatures": false,
     "experimentalCreatorCameraFeatures": false,
